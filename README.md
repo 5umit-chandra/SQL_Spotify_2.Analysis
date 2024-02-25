@@ -5,16 +5,16 @@
 This project delves into the most streamed Spotify songs of 2023, utilizing SQL queries to extract valuable insights. 
 ### Here's a brief rundown of the key findings:
 
-1. Artist Dominance
+1. __Artist Dominance__
 - **Insight:** Morgan Wallen emerges with 8 songs topping the charts, surpassing industry giants like Taylor Swift.
 - **Significance:** Reveals shifting user preferences and showcases the diversity in music tastes.
-2. Monthly Streaming Trends
+2. __Monthly Streaming Trends__
 - **Insight:** January sees the highest streams in 2023.
 - **Significance:** Identifies a consistent trend, suggesting heightened music consumption around the start of the year.
-3. Danceability vs. Popularity
+3. __Danceability vs. Popularity__
 - **Insight:** Danceability doesn't uniformly correlate with popularity; 26-50% danceability attracts the most streams.
 - **Significance:** Challenges conventional assumptions about danceability's impact on streaming metrics.
-4. Release Year Impact
+4. __Release Year Impact__
 - **Insight:** Only 18% of top songs in 2023 were released the same year.
 - **Significance:** Emphasizes the enduring popularity of older songs, guiding strategic content release for artists.
 
