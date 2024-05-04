@@ -3,7 +3,7 @@
 ## 📊 Data Analysis
 
 - Explore the SQL queries in the  [SQL_queries.sql](SQL_queries.sql) file to understand the step-by-step process.
-- Queries are designed for clarity and adaptability, ensuring ease of replication or building upon the analysis.
+- Queries are designed for clarity.
 
 ## 📝 Overview
 This project delves into the most streamed Spotify songs of 2023, utilizing SQL queries to extract valuable insights. 
