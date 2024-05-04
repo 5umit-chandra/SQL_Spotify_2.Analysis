@@ -1,7 +1,11 @@
 # **🟢Spotify Data Analysis 2023**
 
-## 📝 Overview
+## 📊 Data Analysis
 
+- Explore the SQL queries in the  [SQL_queries.sql](SQL_queries.sql) file to understand the step-by-step process.
+- Queries are designed for clarity and adaptability, ensuring ease of replication or building upon the analysis.
+
+## 📝 Overview
 This project delves into the most streamed Spotify songs of 2023, utilizing SQL queries to extract valuable insights. 
 ### Here's a brief rundown of the key findings:
 
@@ -18,18 +22,8 @@ This project delves into the most streamed Spotify songs of 2023, utilizing SQL 
     - **Insight:** Only 18% of top songs in 2023 were released the same year.
     - **Significance:** Emphasizes the enduring popularity of older songs, guiding strategic content release for artists.
 
-## 🧠 Conclusions
-
-In summary, this SQL analysis provides actionable insights for the music industry in 2023. From artist dominance to streaming trends and nuanced song attributes.
-
-## 📊 Data Analysis
-
-- Explore the SQL queries in the  [SQL_queries.sql](SQL_queries.sql) file to understand the step-by-step process.
-- Queries are designed for clarity and adaptability, ensuring ease of replication or building upon the analysis.
-
 ## ℹ️ Dataset Source
-- The initial raw dataset is downloaded in CSV format from [Kaggle.com](https://www.kaggle.com/). 
-- The dataset is stored in the file [spotify-2023.csv](MySQL_Schemea_and_Data/spotify-2023.csv).
+- The Dataset is downloaded from [Kaggle.com](https://www.kaggle.com/). [spotify-2023.csv](MySQL_Schemea_and_Data/spotify-2023.csv)
 
 ## 💾 Raw Data
 To facilitate analysis, the dataset was imported into MySQL. The schema for the MySQL database is defined in [Schemea.sql](MySQL_Schemea_and_Data/Schemea.sql), and the data is loaded into the table using [spotify_2023_spotify_data.sql](MySQL_Schemea_and_Data/spotify_2023_spotify_data.sql).
